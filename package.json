@@ -1,0 +1,24 @@
+{
+  "name": "goit-hwork-1-node",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "author": "Dmytro",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
